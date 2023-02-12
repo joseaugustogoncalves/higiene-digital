@@ -92,7 +92,7 @@
     </mj-section>
     <mj-section padding="0px" background-color="#fff8ea">
       <mj-column vertical-align="middle" width="100%">
-        <mj-image src="https://drive.google.com/uc?id=1UpgQJkN3fs3e1m1nUjk5K2M__J1AiVt8" alt="Complica e protege a tua password" align="center" width="400px" padding="0"></mj-image>
+        <mj-image src="img/complica-as-passwords.jpg" alt="Complica e protege a tua password" align="center" width="400px" padding="0"></mj-image>
         <mj-text font-size="20px" align="center" color="#000000" font-weight="100" letter-spacing="1px" padding-bottom="2px" line-height="1" text-transform="uppercase"><b>Complica e protege a tua password</b></mj-text>
         <mj-text font-size="14px" align="left" color="#000000" font-weight="100" padding-bottom="0px" line-height="1.5"><p>Se ainda usas passwords do tipo 12345 ou qwerty, interrompe agora mesmo a leitura deste artigo e vai mudá-las. Esquece as passwords com números ou letras sequenciais, assim como as datas de nascimento, o nome do filho ou do teu animal de estimação.</p>
         <p>
@@ -109,7 +109,7 @@
     </mj-section>
     <mj-section padding="0px"  background-color="#ffffff">
       <mj-column vertical-align="middle" width="100%" padding="0">
-        <mj-image src="https://drive.google.com/uc?id=1tDRZW6ymaDoVUZ8zmkdLMYSFwibR8_u-" alt="Sê discreto e reduz a tua pegada digital" align="center" width="400px" padding="0"></mj-image>
+        <mj-image src="img/pegada-digital.png" alt="Sê discreto e reduz a tua pegada digital" align="center" width="400px" padding="0"></mj-image>
         <mj-text font-size="20px" align="center" color="#000000" font-weight="100" letter-spacing="1px" padding-bottom="2px" line-height="1" text-transform="uppercase"><b>Sê discreto e reduz a tua pegada digital</b></mj-text>
         <mj-text font-size="14px" align="left" color="#000000" font-weight="100" padding-bottom="0px" line-height="1.5"><p>O que vais encontrar se pesquisares o teu nome online? Fica atento ao que partilhas e controla a tua pegada digital</p>
         <p>
