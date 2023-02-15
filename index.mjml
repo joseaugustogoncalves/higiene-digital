@@ -52,7 +52,7 @@
       <mj-column vertical-align="middle" background-color="#ffffff">
         <mj-image alt="Protege as teus dados pessoais." src="img/protege_os_teus_dados_pessoais.png" width="450px" padding="0px"></mj-image>
         <mj-text font-weight="bold" align="center" font-size="8px" color="#000" font-family="helvetica" >Imagem retirada de <br/>
-          <a href="https://www.santander.pt/ciberseguranca/dicas" target="_blank">www.santander.pt/ciberseguranca/dicas</a></mj-text>
+          <a href="https://br.freepik.com/" target="_blank">https://br.freepik.com/</a></mj-text>
       </mj-column>
       <mj-column vertical-align="middle">
         <mj-spacer height="20px"></mj-spacer>
@@ -72,9 +72,9 @@
     <mj-section padding="0px"  background-color="#ffffff" direction="rtl">
      </mj-column>
        <mj-column vertical-align="middle" background-color="#ffffff" direction="rtl">
-        <mj-image alt="Protege as passwords" src="img/mantenha_palavras_passe_seguras.png" width="450px" padding="0px"></mj-image>
+        <mj-image alt="Protege as passwords" src="img/mantenha_palavras_passe_seguras.jpg" width="450px" padding="0px"></mj-image>
          <mj-text font-weight="bold" align="center" font-size="8px" color="#000" font-family="helvetica" >Imagem retirada de <br/>
-          <a href="https://www.santander.pt/ciberseguranca/dicas" target="_blank">www.santander.pt/ciberseguranca/dicas</a></mj-text>
+          <a href="https://www.seguranet.pt/pt/recursos/protege-tuas-palavras-passe" target="_blank">https://www.seguranet.pt/pt/recursos/protege-tuas-palavras-passe</a></mj-text>
       </mj-column>
       <mj-column vertical-align="middle">
         <mj-spacer height="20px"></mj-spacer>
@@ -160,7 +160,7 @@
         <mj-image src="img/se_suspeitares_reporta.png" alt="Se suspeitares,
  reporta" align="center" width="450px"></mj-image>
         
-         <mj-text font-weight="bold" align="center" font-size="8px" color="#000" font-family="helvetica" >Imagem retirada de <a href="https://www.santander.pt/ciberseguranca/dicas" target="_blank">www.santander.pt/ciberseguranca/dicas</a></mj-text>
+         <mj-text font-weight="bold" align="center" font-size="8px" color="#000" font-family="helvetica" >Imagem retirada de <a href="#" target="_blank">www</a></mj-text>
         
         <mj-text font-size="20px" align="center" color="#000000" font-weight="100" letter-spacing="1px" padding-bottom="2px" line-height="1" text-transform="uppercase"><b>Se suspeitares,
  reporta</b></mj-text>
