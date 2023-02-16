@@ -160,8 +160,7 @@
         <mj-image src="img/cybercrime.jpeg" alt="Se suspeitares,
  reporta" align="center" width="450px"></mj-image>
         
-         <mj-text font-weight="bold" align="center" font-size="8px" color="#000" font-family="helvetica" >Imagem retirada de <a href="#" target="_blank">www</a></mj-text>
-        
+         
         <mj-text font-size="20px" align="center" color="#000000" font-weight="100" letter-spacing="1px" padding-bottom="2px" line-height="1" text-transform="uppercase"><b>Se suspeitares,
  reporta</b></mj-text>
         <mj-text font-size="14px" align="left" color="#000000" font-weight="100" padding-bottom="0px" line-height="1.5">
