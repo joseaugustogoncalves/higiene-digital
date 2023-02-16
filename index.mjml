@@ -50,7 +50,7 @@
     </mj-raw>
     <mj-section padding="0px"  background-color="#ffffff">
       <mj-column vertical-align="middle" background-color="#ffffff">
-        <mj-image alt="Protege as teus dados pessoais." src="img/protege_os_teus_dados_pessoais_v2.png" width="450px" padding="0px"></mj-image>
+        <mj-image alt="Protege as teus dados pessoais." src="img/protege_os_teus_dados_pessoais.png" width="450px" padding="0px"></mj-image>
         <mj-text font-weight="bold" align="center" font-size="8px" color="#000" font-family="helvetica" >Imagem retirada de <br/>
           <a href="https://br.freepik.com/" target="_blank">https://br.freepik.com/</a></mj-text>
       </mj-column>
@@ -157,7 +157,7 @@
     </mj-section>
     <mj-section padding="0px"  background-color="#ffffff">
       <mj-column vertical-align="middle" width="100%">
-        <mj-image src="img/se_suspeitares_reporta_v2.png" alt="Se suspeitares,
+        <mj-image src="img/cybercrime.jpeg" alt="Se suspeitares,
  reporta" align="center" width="450px"></mj-image>
         
          <mj-text font-weight="bold" align="center" font-size="8px" color="#000" font-family="helvetica" >Imagem retirada de <a href="#" target="_blank">www</a></mj-text>
@@ -178,8 +178,31 @@
           <mj-spacer height="15px" />
       </mj-column> 
         </mj-section>
-    
-      
+    <mj-section background-color="#2f323b" padding-bottom="20px" padding-top="20px">
+    <mj-column width="100%">
+      <mj-text font-size="20px" align="center" color="#FFF" font-weight="100" letter-spacing="1px" padding-bottom="2px" line-height="1" text-transform="uppercase"><b>Links úteis</b></mj-text>
+      <mj-spacer height="20px"></mj-spacer>
+      </mj-column> 				
+      <mj-column>
+        <mj-text align="center" color="#fff" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <p style="font-size: 15px;font-weight: bold;"> Procuradoria-Geral da República</p>
+          <p>Email: cibercrime@pgr.pt</p>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        
+        <mj-text align="center" color="#fff" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <p style="font-size: 15px;font-weight: bold;">Centro Internet Segura</p>
+          <p><a href="https://www.internetsegura.pt/lis/denunciar-conteudo-ilegal"
+                style="color:#ffffff;" target="_blank">Formulário para denunciar conteúdos ilegais</a></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+      <mj-section padding="0px">
+    	<mj-column>
+      	<mj-divider border-width="2px" border-color="#5e4f3c" width="45%" padding="15px"></mj-divider>
+      </mj-column> 
+    </mj-section>
      <mj-section padding="0px">
       <mj-column>
         <mj-text mj-class="footer-text" align="center" padding="15px 10px">
